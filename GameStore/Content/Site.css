@@ -1,6 +1,13 @@
-﻿body {
+﻿
+
+
+
+body {
     padding-top: 50px;
     padding-bottom: 20px;
+    
+    background-color:white;
+    background-image: url("/Images/fondo.jpg");
 }
 
 /* Set padding to keep content from hitting the edges */

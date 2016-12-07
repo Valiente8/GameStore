@@ -11,6 +11,7 @@ namespace GameStore.DAL
     {
         public DbSet<Videojuego> Videojuegos { get; set; }
         public DbSet<Transaccion> Transacciones { get; set; }
-
+        public DbSet<Genero> Generos { get; set; }
+        public DbSet<Carrocompras> Carrocompras { get; set; }
     }
 }
